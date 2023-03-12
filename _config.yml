@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Aman Sinha:
     - 'https://amansinha09.github.io'
-  Just the Class on GitHub:
-    - 'https://github.com/amansinha09/coursename'
+  #Just the Class on GitHub:
+   # - 'https://github.com/amansinha09/coursename'
 footer_content:
 
 # Collections for website data
